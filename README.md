@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 
   <img src="https://emojicdn.elk.sh/🌌" width="40"> 
-  代码理想主义者 |  全栈开发者
+  编织代码的诗意 |  全栈开发者
 <!--   <img src="https://emojicdn.elk.sh/🕯️" width="40"> -->
 </h1>
 
@@ -31,11 +31,18 @@ Here are some ideas to get you started:
         _____
        /     \      📌 
       | (·) (·)    
-   ___|  ▭     ▭  
+   ___|  ▭     ▭      
   / _ \  ¯¯¯¯¯¯    
  | / \ |          
   \___/
 
-###
+
+         /\_/\  
+    ____/ o o \  📌 每行代码都应承载  
+   /~____  =ø= /    对世界的善意理解  
+  (______)__m_m)  
+
+
+## 🔭
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
